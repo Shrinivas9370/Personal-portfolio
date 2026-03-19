@@ -1,76 +1,3 @@
-// export const AboutContent = () => {
-//   return (
-//     <div className="items-center box-border caret-transparent gap-x-12 grid grid-cols-none gap-y-12 md:grid-cols-[repeat(2,minmax(0px,1fr))]">
-//       <div className="box-border caret-transparent min-h-[auto] min-w-[auto]">
-//         <p className="text-slate-400 text-lg box-border caret-transparent leading-[28.15px]">
-//           I'm Shrinivas Medewar, a passionate Computer Science undergraduate at 
-//           VIT University with a strong interest in web development, competitive 
-//           programming, and AI/ML. I enjoy building full-stack applications that 
-//           solve real-world problems and optimizing algorithms to make systems 
-//           more efficient.
-//         </p>
-//         <p className="text-slate-400 text-lg box-border caret-transparent leading-[28.15px] mt-6">
-//           From developing healthcare platforms to creating marketplaces for 
-//           excess inventory, I believe in using tech to improve people's lives. 
-//           I'm constantly exploring new tools, frameworks, and problem-solving 
-//           strategies to grow as a developer and thinker.
-//         </p>
-        
-//         <div className="box-border caret-transparent mt-6">
-//           <h3 className="text-2xl font-semibold box-border caret-transparent leading-8">
-//             Philosophy
-//           </h3>
-//           <div className="box-border caret-transparent gap-x-6 grid gap-y-6 mt-4">
-//             <div className="items-center box-border caret-transparent flex min-h-[auto] min-w-[auto]">
-//               <img src="https://c.animaapp.com/wmqHcltrTcufws/assets/icon-3.svg" alt="Icon" className="text-purple-400 box-border caret-transparent h-6 w-6" />
-//               <span className="text-slate-400 box-border caret-transparent block ml-3">
-//                 Deeply inspired by Radha Krishna philosophy and believe in infusing spiritual balance into daily life and code.
-//               </span>
-//             </div>
-//             <div className="items-center box-border caret-transparent flex min-h-[auto] min-w-[auto]">
-//               <img src="https://c.animaapp.com/wmqHcltrTcufws/assets/icon-10.svg" alt="Icon" className="text-purple-400 box-border caret-transparent h-6 w-6" />
-//               <span className="text-slate-400 box-border caret-transparent block ml-3">
-//                 Always curious to learn and try new technologies.
-//               </span>
-//             </div>
-//           </div>
-//         </div>
-//       </div>
-
-//       <div className="box-border caret-transparent min-h-[auto] min-w-[auto]">
-//         <h2 className="text-3xl font-semibold box-border caret-transparent leading-8 mb-6">
-//           Education
-//         </h2>
-        
-//         {/* VIT Education Card */}
-//         <div className="bg-zinc-900 border-h-slate-800 border-l-purple-400 border-r-slate-800 border-t-slate-800 shadow-lg p-6 rounded-xl border-l-4">
-//           <h4 className="text-xl font-semibold box-border caret-transparent leading-7">
-//             B.Tech in Computer Science
-//           </h4>
-//           <p className="text-purple-400 font-medium box-border caret-transparent mt-2">
-//             Vellore Institute of Technology
-//           </p>
-//           <p className="text-slate-400 box-border caret-transparent mt-2">
-//             2022 - Present | CGPA: -
-//           </p>
-//         </div>
-
-//         {/* School Education Cards - (Repeated structure for Class XII and X) */}
-//         <div className="bg-zinc-900 border-slate-800 shadow-lg p-6 rounded-xl border mt-6">
-//            <h4 className="text-xl font-semibold">Senior Secondary (Class XII)</h4>
-//            <p className="text-purple-400">Tier 2 College</p>
-//            <p className="text-slate-400">2025 | 89.3%</p>
-//         </div>
-//         <div className="bg-zinc-900 border-slate-800 shadow-lg p-6 rounded-xl border mt-6">
-//            <h4 className="text-xl font-semibold">Secondary (Class X)
-// </h4>
-//            <p className="text-purple-400">BBEMS</p>
-//            <p className="text-slate-400">2023 | 90.4%</p>
-//         </div>
-//       </div>
-//     </div>
-//   );
-// }; 
 
 import { useEffect, useRef } from "react";
 
@@ -78,7 +5,7 @@ const educationData = [
   {
     degree: "B.Tech in Computer Science",
     institution: "Vellore Institute of Technology",
-    period: "2022 – Present",
+    period: "2026 – Present",
     detail: "CGPA: –",
     highlight: true,
   },

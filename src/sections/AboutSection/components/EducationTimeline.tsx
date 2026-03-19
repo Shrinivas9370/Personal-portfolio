@@ -14,7 +14,7 @@ export const EducationTimeline = () => {
                     <div className="box-border caret-transparent">
                         <h4 className="text-xl font-semibold box-border caret-transparent leading-7">               Senior Secondary (Class XII)             </h4>
                         <p className="text-purple-400 font-medium box-border caret-transparent mt-2">               Tier 2 College             </p>
-                        <p className="text-slate-400 box-border caret-transparent mt-2">               2025 | 90.4%             </p>
+                        <p className="text-slate-400 box-border caret-transparent mt-2">               2025 | 89.7%             </p>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@ export const EducationTimeline = () => {
                     <div className="box-border caret-transparent">
                         <h4 className="text-xl font-semibold box-border caret-transparent leading-7">               Secondary (Class X)             </h4>
                         <p className="text-purple-400 font-medium box-border caret-transparent mt-2">             BBEMS             </p>
-                        <p className="text-slate-400 box-border caret-transparent mt-2">               2023 | 93%             </p>
+                        <p className="text-slate-400 box-border caret-transparent mt-2">               2023 | 90.4%             </p>
                     </div>
                 </div>
             </div>
