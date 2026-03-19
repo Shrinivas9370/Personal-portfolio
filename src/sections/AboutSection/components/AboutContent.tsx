@@ -78,15 +78,15 @@ const educationData = [
   {
     degree: "B.Tech in Computer Science",
     institution: "Vellore Institute of Technology",
-    period: "2022 – Present",
+    period: "2026 – Present",
     detail: "CGPA: –",
     highlight: true,
   },
   {
     degree: "Senior Secondary (Class XII)",
-    institution: "Tier 2 College",
+    institution: "JJC",
     period: "2025",
-    detail: "89.3%",
+    detail: "87.3%",
     highlight: false,
   },
   {
