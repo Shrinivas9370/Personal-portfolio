@@ -152,10 +152,10 @@ export const HeroText = () => {
                         <img src="https://c.animaapp.com/mmq5nl3br7cuRw/assets/icon-6.svg" alt="Icon" className="box-border caret-transparent shrink-0 h-4 pointer-events-none text-nowrap w-4 mr-2" />
                         Let&#39;s Connect
                     </button>
-                    <a href="https://www.instagram.com/shrinivas._018/"><button className="text-lg font-medium items-center backdrop-blur-sm bg-zinc-900/20 caret-transparent gap-x-2 flex h-11 justify-center leading-7 min-h-[auto] min-w-[auto] gap-y-2 text-center text-nowrap border border-slate-800/30 px-8 py-6 rounded-2xl hover:text-neutral-900 hover:bg-purple-400 transition-colors"></a>
+                    <a href="https://www.instagram.com/shrinivas._018/"><button className="text-lg font-medium items-center backdrop-blur-sm bg-zinc-900/20 caret-transparent gap-x-2 flex h-11 justify-center leading-7 min-h-[auto] min-w-[auto] gap-y-2 text-center text-nowrap border border-slate-800/30 px-8 py-6 rounded-2xl hover:text-neutral-900 hover:bg-purple-400 transition-colors">
                         <img src="https://c.animaapp.com/mmq5nl3br7cuRw/assets/icon-7.svg" alt="Icon" className="box-border caret-transparent shrink-0 h-4 pointer-events-none text-nowrap w-4 mr-2" />
                         Social
-                    </button>
+                    </button></a>
                 </div>
             </div>
         </>
