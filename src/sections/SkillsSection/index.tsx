@@ -22,7 +22,7 @@ export const SkillsSection = () => {
             title="Backend"
             skills={[
               "Node.js", "Express.js", "MongoDB", "Django",
-              "REST APIs", "Flask"
+              "REST APIs", "Flask", "Supabase", "Resend"
             ]}
           />
 
@@ -32,7 +32,7 @@ export const SkillsSection = () => {
             title="Tools & DevOps"
             skills={[
               "Git", "Docker", "Kubernetes", "AWS",
-              "GitHub Actions", "Figma", "VS Code"
+              "GitHub Actions", "Claude", "Antigravity", "Vercel" ,"Replit"
             ]}
           />
 
@@ -42,7 +42,7 @@ export const SkillsSection = () => {
             title="CS Fundamentals & ML"
             skills={[
               "DSA", "OOPs", "Operating Systems", "DBMS",
-              "AI/ML", "scikit-learn", "XGBoost",'numpy', "Model Evaluation"
+              "AI/ML", "Web Sockets", "XGBoost",'OAuth', "Model Evaluation"
             ]}
           />
 
@@ -61,7 +61,7 @@ export const SkillsSection = () => {
             title="Frontend"
             skills={[
               "HTML", "CSS",
-              "JavaScript", "ReactJS", "NextJS", "Tailwind CSS"
+              "JavaScript", "ReactJS", "NextJS", "Tailwind CSS", "Figma", "Stitch"
 
             ]}
           />
