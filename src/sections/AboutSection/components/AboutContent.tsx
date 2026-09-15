@@ -6,7 +6,7 @@ const educationData = [
     degree: "B.Tech in Computer Science",
     institution: "Vellore Institute of Technology",
     period: "2026 – Present",
-    detail: "CGPA: –",
+    detail: "CGPA: – 7.63",
     highlight: true,
   },
   {
